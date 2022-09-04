@@ -1,6 +1,6 @@
 {
   "name": "relod",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Alternate for nodemon | Usage are same as nodemon",
   "main": "index.js",
   "bin": "index.js",
